@@ -20,6 +20,7 @@ public class testF15 {
     public void testAttack(){
         String expectedMessage = "Donald Duck: F15 Attacking suspect house with: Spice250X2";
         String message = f15.attack();
+        System.out.print(message);
         assertEquals(message,expectedMessage);
     }
 

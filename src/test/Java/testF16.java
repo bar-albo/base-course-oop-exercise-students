@@ -1,4 +1,3 @@
-import AerialVehicles.FighterJets.F15;
 import AerialVehicles.FighterJets.F16;
 import AerialVehicles.UAVs.Haron.Eitan;
 import AerialVehicles.UAVs.Haron.Shoval;
